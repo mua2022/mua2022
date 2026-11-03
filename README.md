@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mua2022
-- 👀 I’m a developer interested in machine learning and artificia intelligence and a cyber security enthusiast and researcher 
+- 👀 I’m a developer interested in machine learning and artificial intelligence and a cyber security enthusiast and researcher 
 - 🌱 I’m currently learning data science, rust and solidity in web3 
 - 💞️ I’m looking to collaborate on ... AI related projects
 - 📫 How to reach me ... muaemmanuel2022@gmail.com
@@ -9,4 +9,5 @@
 <!---
 mua2022/mua2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Be a fighter don't be a cry baby, Tm93IHlvdSBrbm93IG1lLCB5b3UgYXJlIHF1aXRlIHRoZSByZXNlYXJjaGVyIGN5YmVyQ0N7RDBfSDRSRF9USDFORzVfRjFORF9ZMFVSUzNMRn0=
 --->
